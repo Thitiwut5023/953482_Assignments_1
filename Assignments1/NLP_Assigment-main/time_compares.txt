@@ -1,0 +1,4 @@
+Total Time: 0.05224 seconds
+Loading and Cleaning Time: 0.00713 seconds
+Tokenizing Time: 0.04283 seconds
+Stopwords Removal and Frequency Analysis Time: 0.00227 seconds
