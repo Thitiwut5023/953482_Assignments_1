@@ -1,5 +1,6 @@
 # Thitiwut Thitnuea
 - 652115023
+- for education
 
 
 # Text Preprocessing and Tokenization
